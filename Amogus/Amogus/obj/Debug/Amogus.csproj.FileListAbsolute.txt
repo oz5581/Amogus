@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Amogus\Amogus\bin\Debug\Amogus.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Amogus\Amogus\bin\Debug\Amogus.pdb
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Amogus\Amogus\bin\Debug\OTAPI.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Amogus\Amogus\bin\Debug\TerrariaServer.exe
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Amogus\Amogus\bin\Debug\TShockAPI.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Amogus\Amogus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Amogus\Amogus\obj\Debug\Amogus.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Amogus\Amogus\obj\Debug\Amogus.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Amogus\Amogus\obj\Debug\Amogus.csproj.CopyComplete
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Amogus\Amogus\obj\Debug\Amogus.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Unused Plugins\Amogus\Amogus\obj\Debug\Amogus.pdb
